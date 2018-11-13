@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "..."
+    "Reading",
+    "Ecology"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -34,4 +35,4 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+I am studying biology at the UMons University in Belgium. Sciences in general have always picked my attention, but I oriented myself in biology during my previous grades.
