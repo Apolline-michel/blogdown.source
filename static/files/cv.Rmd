@@ -24,7 +24,7 @@ urlcolor: blue
 
 *Université de Mons*, Bachelier en Biologie \hfill 2020
 
-*Ecole secondaire*, orientation \hfill 2017
+*Athénée Royal of Florennes*, orientation \hfill 2017
 
 
 # EMPLOIS
@@ -54,4 +54,4 @@ urlcolor: blue
 
 # RECOMPENSES
 
-**2017**  *Prix XXX*, détails concernant ce prix
+**2017**  *Excellence prize*, students exposition "Exp'osons" at the namur station.

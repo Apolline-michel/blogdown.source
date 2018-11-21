@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = "2018-09-24"
+date = "2018-11-21"
 
 # Project title.
-title = "My project"
+title = "Succeed January exams"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "Coffee, hard work and motivation, let's go for a new blocus!"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "project.jpg"
+image_preview = "books.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
