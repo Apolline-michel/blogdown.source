@@ -3,13 +3,13 @@
 date = "2018-11-21"
 
 # Project title.
-title = "Succeed January exams"
+title = "Herbarium 2019"
 
 # Project summary to display on homepage.
-summary = "Coffee, hard work and motivation, let's go for a new blocus!"
+summary = "30 families to collect before the end of the spring"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "books.jpg"
+image_preview = "sunflower.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,13 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/project-header.jpg"
+image = "headers/dandelion.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
 Here I describe my project using Markdown formatting...
+
+
+
+
+

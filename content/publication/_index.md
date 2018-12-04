@@ -13,6 +13,6 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/book-header.jpg"
+image = "headers/dandelion.jpg"
 caption = "Image credit: [**Pexels**](https://pixabay.com/en/blur-bokeh-book-college-data-1868068/)"
 +++
