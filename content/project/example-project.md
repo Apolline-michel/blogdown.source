@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/dandelion.jpg"
+image = "headers/champ.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
