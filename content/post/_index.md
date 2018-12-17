@@ -6,7 +6,7 @@ highlight = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/Jungle.png"
+image = "chim.gif"
 caption = "Image credit: **Derek Thompson** on Unsplash"
 
 +++

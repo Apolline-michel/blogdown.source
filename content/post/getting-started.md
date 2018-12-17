@@ -6,7 +6,7 @@ tags = ["academic", "hugo"]
 title = "Mon premier blog"
 math = true
 summary = """
-Résumé en une ou deux phrases ici. 
+Biochimie: Phénomène d'hydrolyse de l'amidon par l'amylase. 
 """
 
 [header]
